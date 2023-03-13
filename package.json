@@ -1,7 +1,7 @@
 {
+  "homepage": "http://Trinal0821.github.io/Portfolio/",
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://trinal0821.github.io/Portfolio/",
   "private": true,
   "dependencies": {
     "@fontsource/pacifico": "^4.5.9",
